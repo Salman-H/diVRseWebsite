@@ -20,7 +20,7 @@ body{
 	padding-bottom: 50px;
 }
 
-#page2,#page3,#intro{
+#page2,#page3,#page4,#intro{
 	margin-left:5em;
 	margin-right:5em;
 	padding-top:50px;
@@ -63,4 +63,14 @@ p {
 	letter-spacing: 0.1em;
 	color:#666666;
 }
-
+.wearHacksLogo{
+	height: 30px;
+	padding: 30px;
+}
+.textUnderPicture{
+	style:text-align:center;
+	font-size:11px;
+}
+.footerDiv{
+	background-color:#cccccc;
+}
