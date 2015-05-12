@@ -84,7 +84,9 @@ p {
 }
 
 @media screen and (max-device-width:900px) {
-  
+  	.logo img{
+  	max-width:55% !important;
+  	}
 	.iframe{
 	padding:1%;
 	width:100%;
@@ -94,6 +96,7 @@ p {
 	float:none;
 	padding:4%;
 	width:auto;
+	text-align:center;
 	}
 	.title{
 	font-size:1.2em;
